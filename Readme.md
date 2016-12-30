@@ -8,7 +8,7 @@ Contains all the meetup course materials.
 <br><br>
 <strong>1st Meetup : July 16 </strong>
 <br><br>
-<strong>Location : SNS college of Tech </strong>
+<strong>Location : SNS college of Technology </strong>
 <br><br>
 <strong>Topics covered </strong>
 <ul>
@@ -46,7 +46,7 @@ Contains all the meetup course materials.
 <li>3. Python API</li>
 </ul>
 
-<strong>4th Meetup : 17 December </strong>
+<strong>4th Meetup : 18 December </strong>
 <br><br>
 <strong>Location : KGISL</strong>
 <br><br>
@@ -56,8 +56,12 @@ Contains all the meetup course materials.
 <li>2. Python packaging</li>
 <li>3. Ansible</li>
 </ul>
+<strong>Blogposts</strong>
+<ul>
+<li><a href="http://surentharan14.blogspot.in/2016/12/foxiot-meetup-4.html">Surentharan's write on the fourth meetup</a></li>
+</ul>
 
-<strong>5h Meetup : 17 December </strong>
+<strong>5h Meetup : 24 December </strong>
 <br><br>
 <strong>Location : KGISL</strong>
 <br><br>
@@ -67,7 +71,7 @@ Contains all the meetup course materials.
 <li>2. Web UI</li>
 </ul>
 
-<strong>6th Meetup : 17 December </strong>
+<strong>6th Meetup : 25 December </strong>
 <br><br>
 <strong>Location : KGISL</strong>
 <br><br>
